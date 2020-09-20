@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/Image/Icon">
+        <file alias="open_file">resource/image/icon/icon-_1.png</file>
+        <file alias="zoom_out">resource/image/icon/icon-_2.png</file>
+        <file alias="zoom_in">resource/image/icon/icon-_3.png</file>
+        <file alias="close_file">resource/image/icon/icon-_4.png</file>
+        <file alias="open_dir">resource/image/icon/icon-_5.png</file>
+        <file alias="prev_image">resource/image/icon/icon-_6.png</file>
+        <file alias="next_image">resource/image/icon/icon-_7.png</file>
+        <file alias="cancle">resource/image/icon/icon-_8.png</file>
+        <file alias="delete_label">resource/image/icon/icon-.png</file>
+        <file alias="import">resource/image/icon/icon-save.png</file>
+        <file alias="rect_mode">resource/image/icon/juxing.png</file>
+        <file alias="ellipse_mode">resource/image/icon/tuoyuanxing.png</file>
+        <file alias="save">resource/image/icon/baocun.png</file>
+        <file alias="curve_mode">resource/image/icon/Curvedline.png</file>
+        <file alias="3D_mode">resource/image/icon/D_1.png</file>
+        <file alias="2D_mode">resource/image/icon/D.png</file>
+        <file alias="magnify">resource/image/icon/fangdajing.png</file>
+        <file alias="polygon_mode">resource/image/icon/polygon.png</file>
+        <file alias="square_pen_mode">resource/image/icon/shixinzhengfangxing.png</file>
+        <file alias="circle_pen_mode">resource/image/icon/yuan.png</file>
+        <file alias="curse_mode">resource/image/icon/yidong.png</file>
+        <file alias="undo">resource/image/icon/undo.png</file>
+        <file alias="redo">resource/image/icon/redo.png</file>
+        <file alias="save_all">resource/image/icon/save_all.png</file>
+    </qresource>
+</RCC>
